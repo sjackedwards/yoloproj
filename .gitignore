@@ -1,0 +1,8 @@
+masks
+augmented_images
+labels
+dataset.yaml
+makeyaml.ipynb
+train.ipynb
+yolov8n.pt
+coco_annotations*
