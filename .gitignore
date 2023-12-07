@@ -1,8 +1,7 @@
 masks
 augmented_images
 labels
-dataset.yaml
 makeyaml.ipynb
-train.ipynb
 yolov8n.pt
+yolov8n-seg.pt
 coco_annotations*
